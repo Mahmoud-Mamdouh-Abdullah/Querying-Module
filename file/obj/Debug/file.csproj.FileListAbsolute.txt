@@ -1,0 +1,132 @@
+c:\users\mahmo\onedrive\المستندات\visual studio 2015\Projects\file\file\bin\Debug\file.exe.config
+c:\users\mahmo\onedrive\المستندات\visual studio 2015\Projects\file\file\bin\Debug\file.exe
+c:\users\mahmo\onedrive\المستندات\visual studio 2015\Projects\file\file\bin\Debug\file.pdb
+c:\users\mahmo\onedrive\المستندات\visual studio 2015\Projects\file\file\obj\Debug\file.csprojResolveAssemblyReference.cache
+c:\users\mahmo\onedrive\المستندات\visual studio 2015\Projects\file\file\obj\Debug\file.Form1.resources
+c:\users\mahmo\onedrive\المستندات\visual studio 2015\Projects\file\file\obj\Debug\file.Properties.Resources.resources
+c:\users\mahmo\onedrive\المستندات\visual studio 2015\Projects\file\file\obj\Debug\file.csproj.GenerateResource.Cache
+c:\users\mahmo\onedrive\المستندات\visual studio 2015\Projects\file\file\obj\Debug\file.exe
+c:\users\mahmo\onedrive\المستندات\visual studio 2015\Projects\file\file\obj\Debug\file.pdb
+C:\Users\mahmo\OneDrive\Desktop\rrr\Querying-Module\file\file\bin\Debug\file.exe.config
+C:\Users\mahmo\OneDrive\Desktop\rrr\Querying-Module\file\file\obj\Debug\file.exe
+C:\Users\mahmo\OneDrive\Desktop\rrr\Querying-Module\file\file\obj\Debug\file.pdb
+C:\Users\mahmed\Documents\GitHub\Querying-Module\file\file\bin\Debug\file.exe.config
+C:\Users\mahmed\Documents\GitHub\Querying-Module\file\file\bin\Debug\file.exe
+C:\Users\mahmed\Documents\GitHub\Querying-Module\file\file\bin\Debug\file.pdb
+C:\Users\mahmed\Documents\GitHub\Querying-Module\file\file\obj\Debug\file.csprojResolveAssemblyReference.cache
+C:\Users\mahmed\Documents\GitHub\Querying-Module\file\file\obj\Debug\file.Form1.resources
+C:\Users\mahmed\Documents\GitHub\Querying-Module\file\file\obj\Debug\file.Properties.Resources.resources
+C:\Users\mahmed\Documents\GitHub\Querying-Module\file\file\obj\Debug\file.csproj.GenerateResource.Cache
+C:\Users\mahmed\Documents\GitHub\Querying-Module\file\file\obj\Debug\file.exe
+C:\Users\mahmed\Documents\GitHub\Querying-Module\file\file\obj\Debug\file.pdb
+C:\Users\mahmed\Desktop\Querying-Module\file\file\bin\Debug\file.exe.config
+C:\Users\mahmed\Desktop\Querying-Module\file\file\obj\Debug\file.exe
+C:\Users\mahmed\Desktop\Querying-Module\file\file\obj\Debug\file.pdb
+C:\Users\mahmed\Desktop\Querying-Module\file\file\bin\Debug\file.exe
+C:\Users\mahmed\Desktop\Querying-Module\file\file\bin\Debug\file.pdb
+C:\Users\mahmed\Desktop\Querying-Module\file\file\obj\Debug\file.csprojResolveAssemblyReference.cache
+C:\Users\mahmed\Desktop\Querying-Module\file\file\obj\Debug\file.Form1.resources
+C:\Users\mahmed\Desktop\Querying-Module\file\file\obj\Debug\file.Properties.Resources.resources
+C:\Users\mahmed\Desktop\Querying-Module\file\file\obj\Debug\file.csproj.GenerateResource.Cache
+C:\Users\a\Desktop\Querying-Module\file\file\bin\Debug\file.exe.config
+C:\Users\a\Desktop\Querying-Module\file\file\bin\Debug\file.exe
+C:\Users\a\Desktop\Querying-Module\file\file\bin\Debug\file.pdb
+C:\Users\a\Desktop\Querying-Module\file\file\obj\Debug\file.Form1.resources
+C:\Users\a\Desktop\Querying-Module\file\file\obj\Debug\file.Properties.Resources.resources
+C:\Users\a\Desktop\Querying-Module\file\file\obj\Debug\file.csproj.GenerateResource.Cache
+C:\Users\a\Desktop\Querying-Module\file\file\obj\Debug\file.exe
+C:\Users\a\Desktop\Querying-Module\file\file\obj\Debug\file.pdb
+C:\Users\a\Desktop\Querying-Module\file\file\obj\Debug\file.csprojResolveAssemblyReference.cache
+E:\Querying-Module\file\file\bin\Debug\file.exe.config
+E:\Querying-Module\file\file\obj\Debug\file.exe
+E:\Querying-Module\file\file\obj\Debug\file.pdb
+E:\Querying-Module\file\file\bin\Debug\file.exe
+E:\Querying-Module\file\file\bin\Debug\file.pdb
+E:\Querying-Module\file\file\obj\Debug\file.csprojResolveAssemblyReference.cache
+E:\Querying-Module\file\file\obj\Debug\file.Form1.resources
+E:\Querying-Module\file\file\obj\Debug\file.Properties.Resources.resources
+E:\Querying-Module\file\file\obj\Debug\file.csproj.GenerateResource.Cache
+E:\Querying-Module\file\file\obj\Debug\file.add_student_form.resources
+C:\Users\a\Documents\GitHub\Querying_module\file\bin\Debug\file.exe.config
+C:\Users\a\Documents\GitHub\Querying_module\file\bin\Debug\file.exe
+C:\Users\a\Documents\GitHub\Querying_module\file\bin\Debug\file.pdb
+C:\Users\a\Documents\GitHub\Querying_module\file\obj\Debug\file.csprojResolveAssemblyReference.cache
+C:\Users\a\Documents\GitHub\Querying_module\file\obj\Debug\file.Form1.resources
+C:\Users\a\Documents\GitHub\Querying_module\file\obj\Debug\file.add_student_form.resources
+C:\Users\a\Documents\GitHub\Querying_module\file\obj\Debug\file.Properties.Resources.resources
+C:\Users\a\Documents\GitHub\Querying_module\file\obj\Debug\file.csproj.GenerateResource.Cache
+C:\Users\a\Documents\GitHub\Querying_module\file\obj\Debug\file.exe
+C:\Users\a\Documents\GitHub\Querying_module\file\obj\Debug\file.pdb
+E:\fcis\projects\4file\Querying_module\file\bin\Debug\file.exe.config
+E:\fcis\projects\4file\Querying_module\file\obj\Debug\file.exe
+E:\fcis\projects\4file\Querying_module\file\obj\Debug\file.pdb
+E:\fcis\projects\4file\Querying_module\file\bin\Debug\file.exe
+E:\fcis\projects\4file\Querying_module\file\bin\Debug\file.pdb
+E:\fcis\projects\4file\Querying_module\file\obj\Debug\file.csprojResolveAssemblyReference.cache
+E:\fcis\projects\4file\Querying_module\file\obj\Debug\file.Form1.resources
+E:\fcis\projects\4file\Querying_module\file\obj\Debug\file.add_student_form.resources
+E:\fcis\projects\4file\Querying_module\file\obj\Debug\file.Properties.Resources.resources
+E:\fcis\projects\4file\Querying_module\file\obj\Debug\file.csproj.GenerateResource.Cache
+F:\Assignment 2\Assignment 2\Querying_module-20190511T160106Z-001\Querying_module\file\bin\Debug\file.exe.config
+F:\Assignment 2\Assignment 2\Querying_module-20190511T160106Z-001\Querying_module\file\obj\Debug\file.exe
+F:\Assignment 2\Assignment 2\Querying_module-20190511T160106Z-001\Querying_module\file\obj\Debug\file.pdb
+F:\Assignment 2\Assignment 2\Querying_module-20190511T160106Z-001\Querying_module\file\obj\Debug\file.csprojResolveAssemblyReference.cache
+F:\Assignment 2\Assignment 2\Querying_module-20190511T160106Z-001\Querying_module\file\obj\Debug\file.Form1.resources
+F:\Assignment 2\Assignment 2\Querying_module-20190511T160106Z-001\Querying_module\file\obj\Debug\file.add_student_form.resources
+F:\Assignment 2\Assignment 2\Querying_module-20190511T160106Z-001\Querying_module\file\obj\Debug\file.Properties.Resources.resources
+F:\Assignment 2\Assignment 2\Querying_module-20190511T160106Z-001\Querying_module\file\obj\Debug\file.csproj.GenerateResource.Cache
+F:\Assignment 2\Assignment 2\Querying_module-20190511T160106Z-001\Querying_module\file\bin\Debug\file.exe
+F:\Assignment 2\Assignment 2\Querying_module-20190511T160106Z-001\Querying_module\file\bin\Debug\file.pdb
+C:\Users\N\Desktop\Querying_module\file\bin\Debug\file.exe.config
+C:\Users\N\Desktop\Querying_module\file\obj\Debug\file.exe
+C:\Users\N\Desktop\Querying_module\file\obj\Debug\file.pdb
+C:\Users\N\Desktop\Querying_module\file\bin\Debug\file.exe
+C:\Users\N\Desktop\Querying_module\file\bin\Debug\file.pdb
+C:\Users\N\Desktop\Querying_module\file\obj\Debug\file.csprojResolveAssemblyReference.cache
+C:\Users\N\Desktop\Querying_module\file\obj\Debug\file.Form1.resources
+C:\Users\N\Desktop\Querying_module\file\obj\Debug\file.add_student_form.resources
+C:\Users\N\Desktop\Querying_module\file\obj\Debug\file.Properties.Resources.resources
+C:\Users\N\Desktop\Querying_module\file\obj\Debug\file.csproj.GenerateResource.Cache
+E:\Querying_module\file\bin\Debug\file.exe.config
+E:\Querying_module\file\obj\Debug\file.exe
+E:\Querying_module\file\obj\Debug\file.pdb
+E:\Querying_module\file\bin\Debug\file.exe
+E:\Querying_module\file\bin\Debug\file.pdb
+E:\Querying_module\file\obj\Debug\file.csprojResolveAssemblyReference.cache
+E:\Querying_module\file\obj\Debug\file.Form1.resources
+E:\Querying_module\file\obj\Debug\file.add_student_form.resources
+E:\Querying_module\file\obj\Debug\file.Properties.Resources.resources
+E:\Querying_module\file\obj\Debug\file.csproj.GenerateResource.Cache
+C:\Users\mahmed\Desktop\Querying_module\file\bin\Debug\file.exe.config
+C:\Users\mahmed\Desktop\Querying_module\file\obj\Debug\file.exe
+C:\Users\mahmed\Desktop\Querying_module\file\obj\Debug\file.pdb
+C:\Users\mahmed\Desktop\Querying_module\file\bin\Debug\file.exe
+C:\Users\mahmed\Desktop\Querying_module\file\bin\Debug\file.pdb
+C:\Users\mahmed\Desktop\Querying_module\file\obj\Debug\file.csprojResolveAssemblyReference.cache
+C:\Users\mahmed\Desktop\Querying_module\file\obj\Debug\file.Form1.resources
+C:\Users\mahmed\Desktop\Querying_module\file\obj\Debug\file.add_student_form.resources
+C:\Users\mahmed\Desktop\Querying_module\file\obj\Debug\file.Properties.Resources.resources
+C:\Users\mahmed\Desktop\Querying_module\file\obj\Debug\file.csproj.GenerateResource.Cache
+C:\Users\mahmo\OneDrive\Desktop\Querying_module\file\bin\Debug\file.exe.config
+C:\Users\mahmo\OneDrive\Desktop\Querying_module\file\obj\Debug\file.exe
+C:\Users\mahmo\OneDrive\Desktop\Querying_module\file\obj\Debug\file.pdb
+C:\Users\mahmo\OneDrive\Desktop\Querying_module\file\bin\Debug\file.exe
+C:\Users\mahmo\OneDrive\Desktop\Querying_module\file\bin\Debug\file.pdb
+C:\Users\mahmo\OneDrive\Desktop\Querying_module\file\obj\Debug\file.csprojResolveAssemblyReference.cache
+C:\Users\mahmo\OneDrive\Desktop\Querying_module\file\obj\Debug\file.Form1.resources
+C:\Users\mahmo\OneDrive\Desktop\Querying_module\file\obj\Debug\file.add_student_form.resources
+C:\Users\mahmo\OneDrive\Desktop\Querying_module\file\obj\Debug\file.Properties.Resources.resources
+C:\Users\mahmo\OneDrive\Desktop\Querying_module\file\obj\Debug\file.csproj.GenerateResource.Cache
+C:\Users\a\Desktop\Final Querying Module\file\bin\Debug\file.exe.config
+C:\Users\a\Desktop\Final Querying Module\file\obj\Debug\file.exe
+C:\Users\a\Desktop\Final Querying Module\file\obj\Debug\file.pdb
+C:\Users\a\Desktop\Final Querying Module\file\bin\Debug\file.exe
+C:\Users\a\Desktop\Final Querying Module\file\bin\Debug\file.pdb
+C:\Users\a\Desktop\Final Querying Module\file\obj\Debug\file.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\Final Querying Module\file\obj\Debug\file.Form1.resources
+C:\Users\a\Desktop\Final Querying Module\file\obj\Debug\file.add_student_form.resources
+C:\Users\a\Desktop\Final Querying Module\file\obj\Debug\file.Properties.Resources.resources
+C:\Users\a\Desktop\Final Querying Module\file\obj\Debug\file.csproj.GenerateResource.Cache
+C:\Users\a\Documents\GitHub\Querying-Module\file\bin\Debug\file.exe.config
+C:\Users\a\Documents\GitHub\Querying-Module\file\obj\Debug\file.exe
+C:\Users\a\Documents\GitHub\Querying-Module\file\obj\Debug\file.pdb
